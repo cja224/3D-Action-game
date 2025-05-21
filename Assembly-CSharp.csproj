@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A76862E7-B460-E578-2F91-DB3816C569DC}</ProjectGuid>
+    <ProjectGuid>{F8DAB22C-E16B-126A-D65F-88A07FAC3131}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,9 +53,6 @@
     <UnityVersion>2022.3.9f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\cja22\Action game\Library\PackageCache\com.unity.collab-proxy@2.8.2\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll" />
-    <Analyzer Include="C:\Users\cja22\Action game\Library\PackageCache\com.unity.collab-proxy@2.8.2\Lib\Editor\PlasticSCM\log4netPlastic.dll" />
-    <Analyzer Include="C:\Users\cja22\Action game\Library\PackageCache\com.unity.collab-proxy@2.8.2\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.9f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.9f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
