@@ -5,16 +5,26 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 638837910176675888
     m_Hash: 513100097
+=======
+      ticks: 638837908245884347
+    m_Hash: 2405387192
+>>>>>>> Stashed changes
   m_LockFileStatus:
     m_FilePath: "C:/Users/cja22/OneDrive/\uBB38\uC11C/GitHub/Actiongame/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 638837910176675888
     m_Hash: 116043254
+=======
+      ticks: 638837908249782129
+    m_Hash: 517873031
+>>>>>>> Stashed changes
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +32,7 @@ m_LocalPackages:
 m_ProjectPath: "C:/Users/cja22/OneDrive/\uBB38\uC11C/GitHub/Actiongame/Packages"
 m_EditorVersion: 2022.3.9f1 (ea401c316338)
 m_ResolvedPackages:
+<<<<<<< Updated upstream
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
   isDirectDependency: 1
@@ -1210,6 +1221,8 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+=======
+>>>>>>> Stashed changes
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
   isDirectDependency: 1
@@ -3111,6 +3124,7 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+<<<<<<< Updated upstream
 - packageId: com.unity.ext.nunit@1.0.6
   testable: 0
   isDirectDependency: 0
@@ -3586,3 +3600,5 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+=======
+>>>>>>> Stashed changes
